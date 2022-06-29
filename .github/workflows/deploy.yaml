@@ -1,4 +1,4 @@
-name: Deploy Docker Images to GCR using GH
+name: Deploy Docker Images to GitHub Container Registry using GH
 on:
   push:
 jobs:
